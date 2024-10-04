@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a computational science and engineering student at Imperial College London. 
 <!--
 **esemsc-sbk124/esemsc-sbk124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
